@@ -15,11 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Saeser.cpp">
-      <Filter>리소스 파일</Filter>
+    <ClCompile Include="Main.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
-      <Filter>리소스 파일</Filter>
+    <ClCompile Include="Saeser.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

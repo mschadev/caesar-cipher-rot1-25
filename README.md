@@ -1,14 +1,14 @@
 Caesar-cipher-ROT1-25
 ===============
-Saeser cipher & ROT1~25 C++ Class
+Saeser cipher & ROT1~25 C++ Class  
 Saeser class constructor parameter 'Key' is default value 3 (Caeser cipher Key is 3)
 
-### Init
+## Init
 1. Add the "Saeser.h" file to the header file (folder).
 2. Add the "Saeser.cpp" file to the source file (folder).
 
 
-### Example
+## Example
 ```C
 #include <iostream>
 #include "Saeser.h"

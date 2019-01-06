@@ -1,7 +1,9 @@
 Caesar-cipher-ROT1-25
 ===============
-
-#Example Update
+#Init
+1. Add the "Saeser.h" file to the header file (folder).
+2. Add the "Saeser.cpp" file to the source file (folder).
+# Example
 ```C
 #include <iostream>
 #include "Saeser.h"
